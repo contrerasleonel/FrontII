@@ -144,14 +144,18 @@ article img {
 }
 article h2 {
     padding: 30px 8px 0px;
+    color: rgb(3, 5, 6);
 }
 article p {
     padding: 10px 10px 10px;
+    color: slategray;
 }
 article .fecha {
     position: absolute;
     top:15px;
     right:2px;
+    font-weight: 700;
+    color: orange;
 }
 article div:last-child {
     position: absolute;
